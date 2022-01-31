@@ -1,0 +1,3 @@
+# LICENSE
+
+## MIT 3.0
